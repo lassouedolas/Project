@@ -1,0 +1,3 @@
+mkdir mon-projet  # Créer un dossier
+cd mon-projet      # Aller dedans
+git init          # Initialiser Git dans ce dossier
